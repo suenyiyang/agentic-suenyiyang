@@ -1,0 +1,19 @@
+DS_Store
+
+# Local folders
+chrome/
+debug/
+file-history/
+ide/
+plans/
+plugins/
+projects/
+session-env/
+shell-snapshots/
+statsig/
+todos/
+
+# Local files
+**.local.**
+history.jsonl
+stats-cache.json
